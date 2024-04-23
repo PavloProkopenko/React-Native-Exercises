@@ -15,7 +15,7 @@ To do these, you should step forward by these steps:
 1. Download some SVG picture
 2. Add this picture to your project (e.g src/svg/Heart.svg)
 3. Download react-native-svg library (also, I added react-native-svg-transformer to my project)
-4. Create file declarations.d.ts and write code (more details you can read in [documentation](https://www.npmjs.com/package/react-native-svg))
+4. Create file declarations.d.ts and write code (more details you can read in [documentation](https://github.com/kristerkari/react-native-svg-transformer))
 5. Create file metro.config.js (if it doesn't exist)
 6. Write code for config (more details in [library documentation](https://github.com/kristerkari/react-native-svg-transformer))
 7. Add SVG picture as a component to App.tsx
