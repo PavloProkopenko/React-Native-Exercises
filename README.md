@@ -9,3 +9,17 @@ To do these, you should step forward by these steps:
 4. Write code for the module
 5. Setup @react-native-asset library
 6. Style your text component with new font (fontFamily)
+
+## Second application: Custom SVG picture
+To do these, you should step forward by these steps:
+1. Download some SVG picture
+2. Add this picture to your project (e.g src/svg/Heart.svg)
+3. Download react-native-svg library (also, I added react-native-svg-transformer to my project)
+4. Create file declarations.d.ts and write code (more details you can read in [documentation](https://www.npmjs.com/package/react-native-svg))
+5. Create file metro.config.js (if it doesn't exist)
+6. Write code for config (more details in [library documentation](https://github.com/kristerkari/react-native-svg-transformer))
+7. Add SVG picture as a component to App.tsx
+
+Documentation
+1. [React Native SVG](https://www.npmjs.com/package/react-native-svg)
+2. [React Native SVG transformer](https://github.com/kristerkari/react-native-svg-transformer)
