@@ -23,3 +23,13 @@ To do these, you should step forward by these steps:
 Documentation
 1. [React Native SVG](https://www.npmjs.com/package/react-native-svg)
 2. [React Native SVG transformer](https://github.com/kristerkari/react-native-svg-transformer)
+
+## Third application: Gradient background
+If you want to make a program with gradient background, you should follow these steps:
+1. Add react-native-linear-gradient library
+2. Import component to your App.tsx
+3. Wrap view component to LinearGradient component
+4. Write some style code for your components
+
+Documentation
+1. [React Native Linear Gradient](https://www.npmjs.com/package/react-native-linear-gradient)
