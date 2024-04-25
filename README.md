@@ -33,3 +33,12 @@ If you want to make a program with gradient background, you should follow these 
 
 Documentation
 1. [React Native Linear Gradient](https://www.npmjs.com/package/react-native-linear-gradient)
+
+## Fourth application: Masked View Component
+With this additional component, you can make such a beautiful styling for your text. So, for this you should follow these steps:
+1. Add react-native-masked-view library to your project
+2. Wrap view component which have text you want to style
+3. Style your component (this code will be after <MaskedView>)
+
+Documentation
+1. [React Native Masked View](https://www.npmjs.com/package/@react-native-masked-view/masked-view)
