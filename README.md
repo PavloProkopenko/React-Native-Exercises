@@ -42,3 +42,17 @@ With this additional component, you can make such a beautiful styling for your t
 
 Documentation
 1. [React Native Masked View](https://www.npmjs.com/package/@react-native-masked-view/masked-view)
+
+## Fifth application: React Navigation
+I think, this is essential library for creating navigation between screens in React Native projects. So, if you want to use this technology in your project, you should follow these steps:
+1. Add  @react-navigation/native library to your project
+2. Add dependencies (how to do this you can watch in documentation)
+3. Choose the type of navigation you want to use (Stack, Drawer, Tab, etc.)
+4. Add a library based on your choice (for example, stack)
+5. Make some screens
+6. Import libraries to your App.tsx
+7. Write code for navigation
+8. Write route in screen from which you want to go
+
+Documentation
+1. [React Navigation](https://reactnavigation.org/docs/getting-started)
