@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Fuzzy Bubbles Regular.ttf",
+      "sha1": "61be2e9e6954191b78155577952adf894c19f8e7"
+    },
+    {
+      "path": "src/assets/fonts/Jersey25-Regular.ttf",
+      "sha1": "bc5ebb48ff8c00f6b23be8df042931c6d8c04337"
+    },
+    {
+      "path": "src/assets/fonts/Pacifico Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    }
+  ]
+}
