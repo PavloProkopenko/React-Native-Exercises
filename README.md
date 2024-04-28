@@ -25,7 +25,7 @@ Documentation
 2. [React Native SVG transformer](https://github.com/kristerkari/react-native-svg-transformer)
 
 ## Third application: Gradient background
-If you want to make a program with gradient background, you should follow these steps:
+If you want to make a program with a gradient background, you should follow these steps:
 1. Add react-native-linear-gradient library
 2. Import component to your App.tsx
 3. Wrap view component to LinearGradient component
@@ -35,16 +35,16 @@ Documentation
 1. [React Native Linear Gradient](https://www.npmjs.com/package/react-native-linear-gradient)
 
 ## Fourth application: Masked View Component
-With this additional component, you can make such a beautiful styling for your text. So, for this you should follow these steps:
+With this additional component, you can make such a beautiful styling for your text. So, for this, you should follow these steps:
 1. Add react-native-masked-view library to your project
-2. Wrap view component which have text you want to style
+2. Wrap view component which has text you want to style
 3. Style your component (this code will be after <MaskedView>)
 
 Documentation
 1. [React Native Masked View](https://www.npmjs.com/package/@react-native-masked-view/masked-view)
 
 ## Fifth application: React Navigation
-I think, this is essential library for creating navigation between screens in React Native projects. So, if you want to use this technology in your project, you should follow these steps:
+I think this is an essential library for creating navigation between screens in React Native projects. So, if you want to use this technology in your project, you should follow these steps:
 1. Add  @react-navigation/native library to your project
 2. Add dependencies (how to do this you can watch in documentation)
 3. Choose the type of navigation you want to use (Stack, Drawer, Tab, etc.)
@@ -56,3 +56,14 @@ I think, this is essential library for creating navigation between screens in Re
 
 Documentation
 1. [React Navigation](https://reactnavigation.org/docs/getting-started)
+
+## Sixth application: React Config
+With this library, you can add .env file to your project to save config variables. But you should be careful with this technology because it doesn't encrypt your variables. So, for this, you should follow these steps:
+1. Install react-native-config to your project
+2. Create .env file (also, a good practice is to add this file to .gitignore)
+3. Add variables to file
+4. Import Config to screen code
+5. Use these variables whenever you want
+
+Documentation
+1. [React Native Config](https://www.npmjs.com/package/react-native-config)
