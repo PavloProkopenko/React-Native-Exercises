@@ -52,7 +52,7 @@ I think this is an essential library for creating navigation between screens in 
 5. Make some screens
 6. Import libraries to your App.tsx
 7. Write code for navigation
-8. Write route in screen from which you want to go
+8. Write the route on screen from which you want to go
 
 Documentation
 1. [React Navigation](https://reactnavigation.org/docs/getting-started)
@@ -67,3 +67,13 @@ With this library, you can add .env file to your project to save config variable
 
 Documentation
 1. [React Native Config](https://www.npmjs.com/package/react-native-config)
+
+## Seventh application: Splash Screen
+As you know, the splash screen is a screen that reveals when you first start an application (the app isn't in the tray). And, with the library react-native-splash-screen, you can easily create and customize this screen. So, you should follow these steps:
+1. Add react-native-splash-screen library to your project
+2. Add to core files of your platform assets that you want to add to the splash screen
+3. Import the library to your project
+4. With useEffect hook add code from the documentation
+
+Documentation
+1.[React Native Splash Screen](https://www.npmjs.com/package/react-native-splash-screen)
