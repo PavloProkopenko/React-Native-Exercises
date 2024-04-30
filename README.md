@@ -77,3 +77,13 @@ As you know, the splash screen is a screen that reveals when you first start an 
 
 Documentation
 1.[React Native Splash Screen](https://www.npmjs.com/package/react-native-splash-screen)
+
+## Eighth application: Flash Message
+If you want to make a beautiful app with a great user experience - flash messages is thing you have to use. To provide this feature to your app, you should follow these steps:
+1. Install react-native-flash-message library
+2. Import methods and FlashMessage component to your screen
+3. Add buttons, write code for show or hide message
+4. Lastly, add the FlashMessage component before the end of the view
+
+Documentation
+1.[React Native Flash Message](https://www.npmjs.com/package/react-native-flash-message)
