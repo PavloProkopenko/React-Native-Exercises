@@ -76,7 +76,7 @@ As you know, the splash screen is a screen that reveals when you first start an 
 4. With useEffect hook add code from the documentation
 
 Documentation
-1.[React Native Splash Screen](https://www.npmjs.com/package/react-native-splash-screen)
+1. [React Native Splash Screen](https://www.npmjs.com/package/react-native-splash-screen)
 
 ## Eighth application: Flash Message
 If you want to make a beautiful app with a great user experience - flash messages is thing you have to use. To provide this feature to your app, you should follow these steps:
@@ -86,4 +86,4 @@ If you want to make a beautiful app with a great user experience - flash message
 4. Lastly, add the FlashMessage component before the end of the view
 
 Documentation
-1.[React Native Flash Message](https://www.npmjs.com/package/react-native-flash-message)
+1. [React Native Flash Message](https://www.npmjs.com/package/react-native-flash-message)
