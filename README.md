@@ -87,3 +87,13 @@ If you want to make a beautiful app with a great user experience - flash message
 
 Documentation
 1. [React Native Flash Message](https://www.npmjs.com/package/react-native-flash-message)
+
+## Ninth application: Encrypted Storage
+If you want to save some sensitive information via your app, you definitely should use Encrypted Storage. Also, we have Async Storage, but it has more security leaks than Encrypted. So, to provide this technology to your project, you should do:
+1. Install react-native-encrypted-storage library
+2. Import the library to your project
+3. Define methods for doing stuff
+4. Include to buttons these methods
+
+Documentation
+1. [React Native Encrypted Storage](https://www.npmjs.com/package/react-native-encrypted-storage)
