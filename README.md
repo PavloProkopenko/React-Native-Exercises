@@ -98,7 +98,7 @@ If you want to save some sensitive information via your app, you definitely shou
 Documentation
 1. [React Native Encrypted Storage](https://www.npmjs.com/package/react-native-encrypted-storage)
 
-## Ninth application: Bottom Sheet
+## Tenth application: Bottom Sheet
 For example, you want to write a new project - a taxi application. For great UX, you can use a bottom sheet, where the user can make an order. So, to provide a bottom sheet for your project, you should follow these steps:
 1. Add libraries to your project
 2. Import Library
@@ -107,3 +107,14 @@ For example, you want to write a new project - a taxi application. For great UX,
 
 Documentation
 1. [Bottom Sheet](https://ui.gorhom.dev/components/bottom-sheet/)
+
+## Eleventh application: Animation
+We have a good library for making custom animations - react-native-reanimated. After reading the documentation, you can easily provide beautiful animation for your project. So, to do this you should follow these steps:
+1. Install the library to your project
+2. Add code to babel.config.js for working
+3. Import elements of this library to your .tsx file
+4. Write code for animations
+5. Add a component to the screen with Animated. prefix
+
+Documentation
+1. [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started)
