@@ -1,5 +1,5 @@
 # React Native Exercises
-In this repository, I will post my progress in doing some React Native exercises. In my humble opinion, these exercises will give you a great start for developing applications in React Native
+In this repository, I will post some React Native exercises. In my humble opinion, these exercises will give you a great start for developing applications in React Native
 
 ## First application: Custom Font
 To do these, you should step forward by these steps:
